@@ -1,5 +1,6 @@
 require "gcd/version"
+require "ext/math"
 
-module Gcd
-  # Your code goes here...
+module GCD
+
 end

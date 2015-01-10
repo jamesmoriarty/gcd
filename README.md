@@ -1,6 +1,6 @@
-# Gcd
+# GCD
 
-TODO: Write a gem description
+In mathematics, the greatest common divisor (gcd) of two or more integers, when at least one of them is not zero, is the largest positive integer that divides the numbers without a remainder. For example, the GCD of 8 and 12 is 4.[1][2]
 
 ## Installation
 
@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require "gcd"
+
+Math.gcd(7, 160) # => [23, -1]
+```
 
 ## Contributing
 

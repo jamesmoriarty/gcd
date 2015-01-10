@@ -5,11 +5,11 @@ require 'gcd/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gcd"
-  spec.version       = Gcd::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.version       = GCD::VERSION
+  spec.authors       = ["James Moriarty"]
   spec.email         = ["jamespaulmoriarty@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{In mathematics, the greatest common divisor (gcd) of two or more integers, when at least one of them is not zero, is the largest positive integer that divides the numbers without a remainder.}
+  spec.description   = ""
   spec.homepage      = ""
   spec.license       = "MIT"
 
