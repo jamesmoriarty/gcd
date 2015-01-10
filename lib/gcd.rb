@@ -1,5 +1,5 @@
 require "gcd/version"
-require "ext/math"
+require "math/gcd"
 
 module GCD
 
